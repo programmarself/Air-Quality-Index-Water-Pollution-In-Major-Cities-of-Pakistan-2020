@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-# Load the default dataset
+# Load the dataset from GitHub
 @st.cache_data
 def load_data():
-    # Replace with the correct path to your CSV file
-    return pd.read_csv('water-air-quality-big-cities-of-pakistan-2020.csv')
+    url = 'https://raw.githubusercontent.com/programmarself/Air-Quality-Index-Water-Pollution-In-Major-Cities-of-Pakistan-2020/main/water-air-quality-big-cities-of-pakistan-2020.csv'
+    return pd.read_csv(url)
 
 # Streamlit app layout
 st.title("Water and Air Quality in Big Cities of Pakistan (2020)")
