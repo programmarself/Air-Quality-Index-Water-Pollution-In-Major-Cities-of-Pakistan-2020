@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-# Load the dataset from GitHub
+# Load the dataset from the raw GitHub URL
 @st.cache_data
 def load_data():
-    url = 'https://github.com/programmarself/Air-Quality-Index-Water-Pollution-In-Major-Cities-of-Pakistan-2020/blob/main/water-air-quality-big-cities-of-pakistan-2020.csv'
+    url = 'https://raw.githubusercontent.com/programmarself/Air-Quality-Index-Water-Pollution-In-Major-Cities-of-Pakistan-2020/main/water-air-quality-big-cities-of-pakistan-2020.csv'
     return pd.read_csv(url)
 
 # Streamlit app layout
