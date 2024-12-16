@@ -14,7 +14,7 @@ def load_data():
 st.title("Water and Air Quality in Big Cities of Pakistan (2020)")
 
 # Load the dataset
-#data = load_data()
+data = load_data()
 
 # Clean the dataset
 data.columns = data.columns.str.strip().str.replace('"', '')
