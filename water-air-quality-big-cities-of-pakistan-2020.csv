@@ -1,0 +1,33 @@
+Country, Region,City,Postal code,population,Latitude,Longitude," ""AirQuality"""," ""WaterPollution"""
+" ""Pakistan"""," ""Khyber Pakhtunkhwa""",Abbottabad,22010,148587,34.15,73.2167,62.5,80.35714286
+" ""Pakistan"""," ""Punjab""",Attock,43600,91 475,33.7667,72.3598,75,50
+" ""Pakistan"""," """"",Bahawalpur,63071,681696,29.3956,71.6722,75,60
+" ""Pakistan"""," ""Punjab""",Chakwal, 04882,105 977,32.93,72.85,50,50
+" ""Pakistan"""," """"",Dadu,76150,146179,26.7319,67.775,50,50
+" ""Pakistan"""," ""Punjab""",Faisalabad,38850,3203846,31.418,73.079,25,76.92307692
+" ""Pakistan"""," ""Gilgit-Baltistan""",Gilgit Gpo,15100,8851,35.9208,74.3144,75,100
+" ""Pakistan"""," ""Punjab""",Gujranwala,52230,1569090,32.15,74.1833,18.05555556,54.41176471
+" ""Pakistan"""," ""Punjab""",Gujrat,50991,328512,32.5736,74.0789,50,87.5
+" ""Pakistan"""," """"",Hyderabad,71500,"6,809,970 ",25.3969,68.3772,50,59.09090909
+" ""Pakistan"""," ""Islamabad Capital """,Islamabad,44000,1365000,33.6989,73.0369,67.41803279,51.32743363
+" ""Pakistan"""," ""Punjab""",Jhang,35201,365198,31.2681,72.3181,50,50
+" ""Pakistan"""," ""Punjab""",Jhelum,49304,190425,32.9333,73.7333,87.5,87.5
+" ""Pakistan"""," ""Sindh""",Karachi,7535,14835000,24.86,67.01,21.96969697,83.11170213
+" ""Pakistan"""," ""Punjab""",Lahore,5425,11021000,31.5497,74.3436,23.41463415,75.51546392
+" ""Pakistan"""," ""Punjab""",Layyah,31000,"321,505",30.9646,70.9444,75,100
+" ""Pakistan"""," ""Khyber Pakhtunkhwa""",Mardan,23250,300424,34.1958,72.0447,75,33.33333333
+" ""Pakistan"""," """"",Mirpur,10360,124352,33.9,73.44,66.66666667,100
+" ""Pakistan"""," ""Sindh""",Mirpur Khas,69170,236961,25.5269,69.0111,0,100
+" ""Pakistan"""," ""Punjab""",Multan,59300,1606481,30.1978,71.4711,28.26086957,65
+" ""Pakistan"""," """"",Muzaffarabad,13230,96000,34.37,73.4711,33.33333333,66.66666667
+" ""Pakistan"""," ""Punjab""",Okara,56100,232386,30.81,73.4597,75,50
+" ""Pakistan"""," ""Khyber Pakhtunkhwa""",Peshawar,24840,1970042,34,71.5,29.05405405,55.46875
+" ""Pakistan"""," """"",Quetta,8773,1140000,30.192,67.007,22.5,83.82352941
+" ""Pakistan"""," ""Punjab""",Rawalpindi,4627,2098231,33.6007,73.0679,33.33333333,79.34782609
+" ""Pakistan"""," ""Punjab""",Sahiwal,57460,247706,30.6706,73.1064,75,25
+" ""Pakistan"""," ""Punjab""",Sargodha,40120,602631,32.0836,72.6711,68.75,37.5
+" ""Pakistan"""," ""Punjab""",Sheikhupura,39060,411834,31.7083,74,50,100
+" ""Pakistan"""," ""Punjab""",Sialkot,5132,3893672,32.5,74.5333,37.5,67.70833333
+" ""Pakistan"""," ""Gilgit-Baltistan""",Skardu,16100,"214,848",35,75.63372,100,75
+" ""Pakistan"""," ""Sindh""",Sukkur,65080,476776,27.6995,68.8673,50,50
+" ""Pakistan"""," ""Punjab""",Nankana Sahib,39100,63073,31.4492,73.7124,45,75
