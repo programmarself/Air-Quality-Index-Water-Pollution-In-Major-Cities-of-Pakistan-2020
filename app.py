@@ -4,8 +4,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-# Load the dataset
-data = pd.read_csv("/mnt/data/water-air-quality-big-cities-of-pakistan-2020.csv")
+# Load the dataset from GitHub
+url = "https://raw.githubusercontent.com/programmarself/Air-Quality-Index-Water-Pollution-In-Major-Cities-of-Pakistan-2020/main/water-air-quality-big-cities-of-pakistan-2020.csv"
+data = pd.read_csv(url)
 
 # Streamlit App
 st.title("Data Visualization Dashboard")
