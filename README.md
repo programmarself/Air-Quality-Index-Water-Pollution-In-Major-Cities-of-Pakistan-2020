@@ -1,6 +1,7 @@
 # Air Quality Index & Water Pollution In Major Cities of Pakistan (2020)
 
 ![Air Quality Index   Water Pollution In Major Cities of Pakistan (2020)](https://github.com/user-attachments/assets/99ca86a0-abf8-4160-ae2f-c0c1a1f0b343)
+
 -------------------------------------------------------------------------------------------------------------------
 # About Air Quality Index & Water Pollution In Major Cities of Pakistan (2020)
 The research document titled "Water and Air Quality in Big Cities of Pakistan (2020)" provides an essential glimpse into environmental health across diverse urban landscapes in Pakistan. The dataset includes information from different provinces and is meant to show parameters like the quality of air or levels of water pollution across major cities.
@@ -13,7 +14,9 @@ This dataset itself on environmental issues nagging these mega cities serves sol
 
 -------------------------------------------------------------------------------------------------------------------
 Google Colab : https://colab.research.google.com/drive/1Jmsp6hTkl7Jj8RkJKyRYhvODBLLV7szu?usp=sharing
+
 Application Demo : https://airqualityindexwater.streamlit.app/
+
 -------------------------------------------------------------------------------------------------------------------
 ### Our Respected Moderators & Trainers From IcodGuru 
 
