@@ -41,7 +41,7 @@ st.markdown(
         color: #1ABC9C;
     }
     </style>
-    <div class="main-title">Data Visualization Dashboard</div>
+    <div class="main-title">Air Quality Index & Water Pollution In Major Cities of Pakistan (2020)</div>
     <div class="sub-title">Explore and Visualize Data with Interactive Plots</div>
     """,
     unsafe_allow_html=True,
