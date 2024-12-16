@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv('water-air-quality-big-cities-of-pakistan-2020.csv', encoding='latin-1')
+data = pd.read_csv('water-air-quality-big-cities-of-pakistan-2020.csv')
 
 # Clean the dataset
 data.columns = data.columns.str.strip().str.replace('"', '')
