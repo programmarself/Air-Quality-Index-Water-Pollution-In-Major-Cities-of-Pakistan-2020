@@ -12,7 +12,10 @@ What is mainly considerable is how this actually shows urban development along w
 This dataset itself on environmental issues nagging these mega cities serves soliciting for policymakers, scholars, and citizens to join hands in achieving a citizenry environment with cleaner air and water that is going to be most vital for future generations. Using this data makes it possible for concerned parties to come up with unique interventions directed towards improving urban living conditions while also conserving the natural resource base of Pakistan.
 
 -------------------------------------------------------------------------------------------------------------------
-### Our Respected Moderators & Trainers
+Google Colab : https://colab.research.google.com/drive/1Jmsp6hTkl7Jj8RkJKyRYhvODBLLV7szu?usp=sharing
+Application Demo : https://airqualityindexwater.streamlit.app/
+-------------------------------------------------------------------------------------------------------------------
+### Our Respected Moderators & Trainers From IcodGuru 
 
 - **Ma'am Shafaq Aslam**  
 - **Ma'am Fatima Malik**  
