@@ -62,7 +62,7 @@ if st.sidebar.checkbox("Show Dataset"):
 # Select Visualization Type
 vis_type = st.sidebar.selectbox(
     "Choose Visualization Type",
-    ["Bar Chart", "Scatterplot", "Histogram", "Boxplot", "Heatmap", "Regplot", "Pairplot", "Violinplot", "Sunburst"],
+    ["Sunburst","Bar Chart", "Scatterplot", "Histogram", "Boxplot", "Heatmap", "Regplot", "Pairplot", "Violinplot" ],
 )
 
 # General Settings for Plot Customization
