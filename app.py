@@ -2,16 +2,23 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import plotly.express as px
+
+# Load the default dataset
+@st.cache_data
+def load_data():
+    # Replace with the correct path to your CSV file
+    return pd.read_csv('water-air-quality-big-cities-of-pakistan-2020.csv')
+
+# Streamlit app layout
+st.title("Water and Air Quality in Big Cities of Pakistan (2020)")
 
 # Load the dataset
-data = pd.read_csv('water-air-quality-big-cities-of-pakistan-2020.csv')
+data = load_data()
 
 # Clean the dataset
 data.columns = data.columns.str.strip().str.replace('"', '')
 data['population'] = data['population'].str.replace(',', '').astype(float)
-
-# Streamlit app layout
-st.title("Water and Air Quality in Big Cities of Pakistan (2020)")
 
 # Sidebar for user input
 st.sidebar.header("User Input Features")
@@ -63,8 +70,7 @@ sns.violinplot(x='Region', y='WaterPollution', data=data)
 plt.xticks(rotation=45)
 st.pyplot()
 
-# Sunburst chart (requires plotly)
-import plotly.express as px
+# Sunburst chart
 st.subheader("Sunburst Chart for Population by Region and City")
 fig = px.sunburst(data, path=['Region', 'City'], values='population', title="Population Distribution")
 st.plotly_chart(fig)
